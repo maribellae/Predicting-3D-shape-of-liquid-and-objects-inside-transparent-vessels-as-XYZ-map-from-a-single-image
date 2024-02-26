@@ -368,4 +368,4 @@ dependencies:
     - opencv-python==4.5.2.52
     - plyfile==0.7.4
     - sklearn==0.0
-prefix: C:/Users/user/anaconda3
+prefix: C:/Users/user/anaconda3/envs/liq
